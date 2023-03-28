@@ -49,8 +49,7 @@ A Chinese \LaTeX Template for Central University of Finance and Economics Course
 1. This template has not been reviewed or authorized by the relevant departments of the university. Please use it with caution before use.
 1. This template does not guarantee complete stability and usability, and requires some debugging ability. Please use it with caution before use.
 1. The author of this template is not responsible for any issues related to the format review of the paper caused by the use of this template.
-
-
+---
 1. 本模板未经学校相关部门审核及授权，使用前请务必斟酌。
 1. 本模板不保证完全稳定的可用性，需要你有一定的debug能力，使用前请自行斟酌。
 1. 任何由于使用本模板而引起的论文格式审查问题均与本模板作者无关。
