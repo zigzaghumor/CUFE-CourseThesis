@@ -1,8 +1,8 @@
 <!-- Author: Zhihang Zhao -->
 
-# CUFE Course Thesis \LaTeX Template
+# CUFE Course Thesis $\LaTeX$ Template
 
-A Chinese \LaTeX Template for Central University of Finance and Economics Course Thesis. Based on [ElegantPaper](https://github.com/ElegantLaTeX/ElegantPaper) with the following requirements:
+A Chinese $\LaTeX$ Template for Central University of Finance and Economics Course Thesis. Based on [ElegantPaper](https://github.com/ElegantLaTeX/ElegantPaper) with the following requirements:
 
 1. The cover page of the course thesis should be submitted according to the template, and each student should fill in their personal information.
 1. The next page after the cover is the main text, which includes the article title, Chinese abstract (no more than 200 words), and keywords (no more than 3).
@@ -23,7 +23,7 @@ A Chinese \LaTeX Template for Central University of Finance and Economics Course
 ```
 
 
-中央财经大学课程论文 \LaTeX 中文模板，基于[ElegantPaper](https://github.com/ElegantLaTeX/ElegantPaper)依照如下要求制作
+中央财经大学课程论文 $\LaTeX$ 中文模板，基于[ElegantPaper](https://github.com/ElegantLaTeX/ElegantPaper)依照如下要求制作
 
 1. 课程论文封面需按照模板提交，每位同学填写个人信息。
 1. 封面下一页是正文，文章标题；中文摘要（不超过200字）；关键词（不超过3个）
@@ -63,6 +63,6 @@ If you have any suggestions for improvement or feature requests, please feel fre
 
 ## License
 
-This work is released under the LaTeX Project Public License, v1.3c or later. 
+This work is released under the $\LaTeX$ Project Public License, v1.3c or later. 
 
-本模板发布遵循 LaTeX 项目公共许可证 1.3c 或更高版本。 
+本模板发布遵循 $\LaTeX$ 项目公共许可证 1.3c 或更高版本。 
