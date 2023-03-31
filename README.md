@@ -2,6 +2,8 @@
 
 # CUFE Course Thesis $\LaTeX$ Template
 
+[![License](https://img.shields.io/github/license/zigzaghumor/CUFE-CourseThesis)](https://github.com/zigzaghumor/CUFE-CourseThesis/blob/main/LICENSE)
+
 A Chinese $\LaTeX$ Template for Central University of Finance and Economics Course Thesis. Based on [ElegantPaper](https://github.com/ElegantLaTeX/ElegantPaper) with the following requirements:
 
 1. The cover page of the course thesis should be submitted according to the template, and each student should fill in their personal information.
